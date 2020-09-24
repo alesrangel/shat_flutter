@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235797935116",
+    "firebase_url": "https://shat-bd086.firebaseio.com",
+    "project_id": "shat-bd086",
+    "storage_bucket": "shat-bd086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235797935116:android:9eaae9ec27c695ab42ea29",
+        "android_client_info": {
+          "package_name": "com.app.alesrangel.shat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235797935116-ac958b9t5nlruc88pdhg0arj7iq2lci6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.alesrangel.shat",
+            "certificate_hash": "a999e5b86bc758405673522e4be9df02e3bb0aa9"
+          }
+        },
+        {
+          "client_id": "235797935116-b0605pam7j70dk0uqfif47irrun1v63e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxapFfzeZ6ZX_C2Am49qeQiavqrKjCYwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235797935116-b0605pam7j70dk0uqfif47irrun1v63e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
